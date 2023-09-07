@@ -335,6 +335,8 @@ middlewares:
   #     - "X-CustomHeader"
   #   authResponseHeadersRegex: "^X-"
   #   trustForwardHeader: true
+  corsHeaders: []
+  # TODO: Example schema
   customRequestHeaders: []
   # - name: customRequestHeaderExample
   #   headers:

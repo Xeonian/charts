@@ -185,6 +185,7 @@ questions:
 # Include{basicAuthMiddleware}
 # Include{forwardAuthMiddleware}
 # Include{bufferingMiddleware}
+# Include{corsHeadersMiddleware}
 # Include{customRequestHeadersMiddleware}
 # Include{customResponseHeadersMiddleware}
 # Include{customFrameOptionsValueMiddleware}
